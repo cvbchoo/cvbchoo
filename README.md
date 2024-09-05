@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center">  hai :p 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cvbchoo&label=Profile%20views&color=ce9927&style=flat" alt="cvbchoo" /> </p>
 <!--
 **cvbchoo/cvbchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
